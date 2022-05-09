@@ -1,2 +1,2 @@
-<a href="https://github.com/xiaowine/"><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api/?username=xiaowine&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dark" /></a>
-<a href="https://github.com/xiaowine/"><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaowine&layout=compact&langs_count=10&locale=cn&theme=dark" /></a>
+<a href="https://github.com/xiaowine/"><img  align="center" src="https://github-readme-stats.vercel.app/api/?username=xiaowine&show_icons=true&count_private=true&theme=dark"/></a>
+<a href="https://github.com/xiaowine/"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaowine&layout=compact&theme=dark"/></a>
